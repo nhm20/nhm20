@@ -4,10 +4,7 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 # 💫 About Me:
-✅ I recently completed: A Smart City Android App using Kotlin & Firebase  <br>
-👯 I’m looking to collaborate on: Open-source Android or backend projects  <br>
-🌱 I’m currently learning: Hibernate for robust Java backend development  <br>
-💬 Ask me about:  Kotlin, Spring Boot, Firebase, or Android development<br>
+👯 I’m looking to collaborate  backend projects  <br>
 ⚡ Fun fact: I can debug better at night with lo-fi music 🎧
 
 ---
